@@ -1,6 +1,6 @@
 # A microservice in Go
 
-This microservice will answer to HTTP request on port 80 with a micro "hello world"
+This microservice will answer to HTTP requests on port 80 with a mini version of "hello world"
 
 ## Build
 
