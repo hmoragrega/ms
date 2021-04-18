@@ -2,13 +2,15 @@
 
 This microservice will answer to HTTP requests on port 80 with a mini version of "hello world"
 
-## Build
+## Dockerized version! 
+
+### Build
 
 ```
 docker build -t ms .
 ```
 
-## Run
+### Run
 
 ```
 docker run -p 80:80 ms
