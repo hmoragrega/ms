@@ -15,3 +15,10 @@ docker build -t ms .
 ```
 docker run -p 80:80 ms
 ```
+
+## Test
+
+```
+$ curl localhost
+hlo wld             
+```
